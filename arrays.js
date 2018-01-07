@@ -28,3 +28,8 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   
   
 }
+
+function (array){
+  
+  
+}
