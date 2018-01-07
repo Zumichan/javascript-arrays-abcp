@@ -1,5 +1,7 @@
-function addElementToBeginningOfArray{
+function addElementToBeginningOfArray(){
   
 }
 
-function 
+function destructivelyAddElementToBeginningOfArray(){
+  
+}
